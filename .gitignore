@@ -1,0 +1,9 @@
+src/publisher_code.bak
+
+# Typical backup file patterns
+
+*~
+
+\#.#
+
+*.bak
